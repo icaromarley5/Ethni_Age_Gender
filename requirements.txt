@@ -1,0 +1,3 @@
+pip install Pillow
+conda install -c anaconda keras
+dataset https://susanqq.github.io/UTKFace/ 
