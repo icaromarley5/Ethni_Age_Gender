@@ -1,7 +1,8 @@
-dataset https://susanqq.github.io/UTKFace/ 
-
-pip install Pillow
-conda install -c anaconda keras
-pydot
-conda install graphviz
-install https://www.graphviz.org/
+1- baixar dataset "Aligned&Cropped Faces" disponível em https://susanqq.github.io/UTKFace/  
+2- criar pastas "original","train_test" e "holdout" na pasta "data"
+3- colocar conteúdo do arquivo na pasta "original" dentro da pasta "data"
+4- pip install Pillow
+5- conda install -c anaconda keras
+6- pip install pydot
+7- conda install graphviz
+8- install https://www.graphviz.org/
